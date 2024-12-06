@@ -19,6 +19,3 @@
 ## 📫 How to reach me:
 - **Email:** [Sinashakoori79@gmail.com](mailto:Sinashakoori79@gmail.com)
 - **Location:** Tabriz, Iran  
-
-## 📊 GitHub Stats:
-![Sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
