@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I’m Sina Shakoori
 
-<!--
-**SinaShakoori/SinaShakoori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me:
+- 🎓 Master’s Student in Biomechanics at Islamic Azad University, Tabriz
+- 🛠️ Biomedical Engineer with a passion for Python development
+- 🌱 Currently learning Machine Learning and exploring Data Science
+- 💻 Interested in developing automation tools and solving real-world problems
+- 📸 Photography enthusiast in my free time
 
-Here are some ideas to get you started:
+## 🛠️ Skills:
+- **Programming Languages:** Python, MATLAB (basic)  
+- **Libraries & Tools:** NumPy, pandas, matplotlib, tkinter, sqlite3  
+- **Other Skills:** SolidWorks, Abaqus (basic knowledge)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Current Projects:
+- 🚧 Developing small Python projects to sharpen my skills
+
+
+## 📫 How to reach me:
+- **Email:** [Sinashakoori79@gmail.com](mailto:Sinashakoori79@gmail.com)
+- **Location:** Tabriz, Iran  
+
+## 📊 GitHub Stats:
+![Sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
