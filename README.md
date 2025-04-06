@@ -13,7 +13,7 @@
 - **Other Skills:** SolidWorks, Abaqus (basic knowledge)  
 
 ## 📂 Current Projects:
-- 🚧 Developing small Python projects to sharpen my skills
+- 🚧 Developing small machine learning projects to sharpen my skills
 
 
 ## 📫 How to reach me:
