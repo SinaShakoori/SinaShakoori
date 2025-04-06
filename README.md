@@ -1,21 +1,21 @@
 # 👋 Hi, I’m Sina Shakoori
 
 ## 🚀 About Me:
-- 🎓 Master’s Student in Biomechanics at Islamic Azad University, Tabriz
+- 🎓 Master’s in Biomechanics at Islamic Azad University, Tabriz
 - 🛠️ Biomedical Engineer with a passion for Python development
-- 🌱 Currently learning Machine Learning and exploring Data Science
+- 🌱 Currently learning exploring Data Science
 - 💻 Interested in developing automation tools and solving real-world problems
 - 📸 Photography enthusiast in my free time
 
 ## 🛠️ Skills:
-- **Programming Languages:** Python, MATLAB (basic)  
-- **Libraries & Tools:** NumPy, pandas, matplotlib, tkinter, sqlite3  
-- **Other Skills:** SolidWorks, Abaqus (basic knowledge)  
+- **Programming Languages:** Python, MATLAB
+- **Other Skills:** SolidWorks, Abaqus (basic) , Linux , Anatomy and kinesiology 
 
 ## 📂 Current Projects:
-- 🚧 Developing small machine learning projects to sharpen my skills
+- 🚧 Developing Machine learning & Deep learning projects
 
 
 ## 📫 How to reach me:
 - **Email:** [Sinashakoori79@gmail.com](mailto:Sinashakoori79@gmail.com)
+- **Website:** https://sinashakoori.ir/
 - **Location:** Tabriz, Iran  
