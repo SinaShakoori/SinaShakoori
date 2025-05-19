@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sina Shakoori
 
-## 🛠️ Skills:
+
 - **Programming Languages:** Python
 - **Other Skills:** SolidWorks, Abaqus (basic) , Linux , Git , Docker 
 
