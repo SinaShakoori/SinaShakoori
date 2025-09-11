@@ -69,10 +69,5 @@ Some projects are completed (✅), while others are still in progress (⏳).
   ---
 
 
-## 🛠 Miscellaneous Projects
 
-| No. | Project Name | Description | GitHub Link | Status |
-|-----|--------------|-------------|-------------|--------|
-| 1 | Simple Calculator | A basic calculator with 4 operations in Python | [Link](https://github.com/SinaShakoori/Simple-Calculator) | ✅ |
-| 2 | Business Management Software | A simple sales and inventory management system | [Link](https://github.com/SinaShakoori/BusinessManagement) | ⏳ |
 
