@@ -63,5 +63,16 @@ Some projects are completed (✅), while others are still in progress (⏳).
 ## 🎯 Goals
 - Gain hands-on experience with Machine Learning algorithms  
 - Build a stronger AI-focused resume  
-- Create a categorized source of examples for **future teaching**  
-- Demonstrate both **theoretical** and **practical** project work  
+- Create a categorized source of examples for **teaching**  
+- Demonstrate both **theoretical** and **practical** project work
+
+  ---
+
+
+## 🛠 Miscellaneous Projects
+
+| No. | Project Name | Description | GitHub Link | Status |
+|-----|--------------|-------------|-------------|--------|
+| 1 | Simple Calculator | A basic calculator with 4 operations in Python | [Link](https://github.com/SinaShakoori/Simple-Calculator) | ✅ |
+| 2 | Business Management Software | A simple sales and inventory management system | [Link](https://github.com/SinaShakoori/BusinessManagement) | ⏳ |
+
