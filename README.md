@@ -22,9 +22,9 @@ Some projects are completed (✅), while others are still in progress (⏳).
 | 11 | 17 Category Flower Dataset (Oxford - robots.ox.ac.uk) | Support Vector Machine (SVM), AdaBoost Classifier, and XGBoost Classifier for flower image classification, with Hu Moments for feature extraction | [Link](https://github.com/SinaShakoori/17-Category-flowers) | ✅ |
 | 12 | MNIST Handwritten Digits (Kaggle - oddrationale, CSV format) | Custom Neural Network with backpropagation for digit classification. | [Link](https://github.com/SinaShakoori/Simple-NeuralNetwork-MNIST) | ✅ |
 | 13 | Fashion-MNIST (Kaggle - zalando-research) | Custom Neural Network with backpropagation for fashion item classification | [Link](https://github.com/SinaShakoori/Fashion-MNIST) | ✅ |
-| 14 | Diabetes Dataset (Kaggle - uciml) | Multi-Layer Perceptron (MLP) for binary classification | [Link](https://github.com/SinaShakoori/Diabetes-MLP) | ⏳ |
-| 15 | Credit Card Fraud Detection (Kaggle - mlg-ulb) | Autoencoder for anomaly detection | [Link](https://github.com/SinaShakoori/Credit-Card-Fraud-Detection) | ⏳ |
-| 16 | Cats And Dogs Image Dataset | Simple Fully Connected Neural Network and CNN | [Link](https://github.com/SinaShakoori/CatDog-CNN) | ⏳ |
+| 14 | Diabetes Dataset (Kaggle - uciml) | Multi-Layer Perceptron (MLP) for binary classification | [Link](https://github.com/SinaShakoori/Diabetes-MLP) | ✅ |
+| 15 | Credit Card Fraud Detection (Kaggle - mlg-ulb) | Autoencoder for anomaly detection | [Link](https://github.com/SinaShakoori/Credit-Card-Fraud-Detection) | ✅ |
+| 16 | Cats And Dogs Image Dataset | Simple Fully Connected Neural Network and CNN | [Link](https://github.com/SinaShakoori/CatDog-CNN) | ✅ |
 | 17 | CIFAR10(Kaggle) | Convolutional Neural Network (CNN) | [Link](https://github.com/SinaShakoori/CIFAR10-ManualNN-vs-TensorFlow) | ⏳ |
 | 18 | Brain MRI Images for Brain Tumor Detection(Kaggle) | Convolutional Neural Network (CNN) | [Link](https://github.com/SinaShakoori/Brain-MRI-Images-for-Brain-Tumor---CNN) | ⏳ |
 | 19 | Alzheimer MRI Disease Classification Dataset | Convolutional Neural Network (CNN) | [Link](https://github.com/SinaShakoori/alzheimers-mri-classifier) | ⏳ |
