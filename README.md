@@ -25,10 +25,10 @@ Some projects are completed (✅), while others are still in progress (⏳).
 | 14 | Diabetes Dataset (Kaggle - uciml) | Multi-Layer Perceptron (MLP) for binary classification | [Link](https://github.com/SinaShakoori/Diabetes-MLP) | ✅ |
 | 15 | Credit Card Fraud Detection (Kaggle - mlg-ulb) | Autoencoder for anomaly detection | [Link](https://github.com/SinaShakoori/Credit-Card-Fraud-Detection) | ✅ |
 | 16 | Cats And Dogs Image Dataset | Simple Fully Connected Neural Network and CNN | [Link](https://github.com/SinaShakoori/CatDog-CNN) | ✅ |
-| 17 | CIFAR10(Kaggle) | Convolutional Neural Network (CNN) | [Link](https://github.com/SinaShakoori/CIFAR10-ManualNN-vs-TensorFlow) | ⏳ |
-| 18 | Brain MRI Images for Brain Tumor Detection(Kaggle) | Convolutional Neural Network (CNN) | [Link](https://github.com/SinaShakoori/Brain-MRI-Images-for-Brain-Tumor---CNN) | ⏳ |
-| 19 | Alzheimer MRI Disease Classification Dataset | Convolutional Neural Network (CNN) | [Link](https://github.com/SinaShakoori/alzheimers-mri-classifier) | ⏳ |
-| 20 | Best Alzheimer's MRI Dataset 99% Accuracy | Convolutional Neural Network (CNN) | [Link](https://github.com/SinaShakoori/alzheimers-mri-high-accuracy) | ⏳ |
+| 17 | CIFAR10(Kaggle) | Convolutional Neural Network (CNN) | [Link](https://github.com/SinaShakoori/CIFAR10-ManualNN-vs-TensorFlow) | ✅ |
+| 18 | Brain MRI Images for Brain Tumor Detection(Kaggle) | Convolutional Neural Network (CNN) | [Link](https://github.com/SinaShakoori/Brain-MRI-Images-for-Brain-Tumor---CNN) | ✅ |
+| 19 | Alzheimer MRI Disease Classification Dataset | Convolutional Neural Network (CNN) | [Link](https://github.com/SinaShakoori/alzheimers-mri-classifier) | ✅ |
+| 20 | Best Alzheimer's MRI Dataset 99% Accuracy | Convolutional Neural Network (CNN) | [Link](https://github.com/SinaShakoori/alzheimers-mri-high-accuracy) | ✅ |
 | 21 | Google Stock Prediction | Simple RNN & GRU Models | [Link](https://github.com/SinaShakoori/Google-Stock-Prediction) | ⏳ |
 | 22 | Daily Climate Time Series Data (Kaggle - sumanthvrao) | LSTM Model | [Link](https://github.com/SinaShakoori/Daily-Climate-Time-Series-Data) | ⏳ |
 | 23 | SMS Spam Collection (UCI - archive.ics.uci.edu) | Bidirectional LSTM for text classification | [Link](https://github.com/SinaShakoori/SMS-Spam-Collection) | ⏳ |
