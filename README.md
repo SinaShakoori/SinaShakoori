@@ -56,7 +56,7 @@ Some projects are completed (✅), while others are still in progress (⏳).
 |-----|--------------|-------------|-------------|--------|
 | 1 | Simple Calculator | A basic calculator with 4 operations in Python | [Link](https://github.com/SinaShakoori/Simple-Calculator) | ✅ |
 | 2 | Business Management Software | A simple sales and inventory management system | [Link](https://github.com/SinaShakoori/BusinessManagement) | ⏳ |
-
+| 3 | Alzheimer Telegram Bot | A simple Telegram bot that accepts MRI images and predicts Alzheimer’s stage using CNN models (educational purposes only) | [Link](https://github.com/SinaShakoori/Alzheimer_Telegram_Bot) | ✅ |
 
 ---
 
