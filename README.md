@@ -29,10 +29,10 @@ Some projects are completed (✅), while others are still in progress (⏳).
 | 18 | Brain MRI Images for Brain Tumor Detection(Kaggle) | Convolutional Neural Network (CNN) | [Link](https://github.com/SinaShakoori/Brain-MRI-Images-for-Brain-Tumor---CNN) | ✅ |
 | 19 | Alzheimer MRI Disease Classification Dataset | Convolutional Neural Network (CNN) | [Link](https://github.com/SinaShakoori/alzheimers-mri-classifier) | ✅ |
 | 20 | Best Alzheimer's MRI Dataset 99% Accuracy | Convolutional Neural Network (CNN) | [Link](https://github.com/SinaShakoori/alzheimers-mri-high-accuracy) | ✅ |
-| 21 | Google Stock Prediction | Simple RNN & GRU Models | [Link](https://github.com/SinaShakoori/Google-Stock-Prediction) | ⏳ |
-| 22 | Daily Climate Time Series Data (Kaggle - sumanthvrao) | LSTM Model | [Link](https://github.com/SinaShakoori/Daily-Climate-Time-Series-Data) | ⏳ |
-| 23 | SMS Spam Collection (UCI - archive.ics.uci.edu) | Bidirectional LSTM for text classification | [Link](https://github.com/SinaShakoori/SMS-Spam-Collection) | ⏳ |
-| 24 | IMDB Dataset of 50K Movie Reviews (Kaggle - lakshmi25npathi) | Embedding for Sentiment & Text Analysis | [Link](https://github.com/SinaShakoori/IMDB-Movie-Reviews-SentimentAnalysis) | ⏳ |
+| 21 | Google Stock Prediction | Simple RNN & GRU Models | [Link](https://github.com/SinaShakoori/Google-Stock-Prediction) | ✅ |
+| 22 | Daily Climate Time Series Data (Kaggle - sumanthvrao) | LSTM Model | [Link](https://github.com/SinaShakoori/Daily-Climate-Time-Series-Data) | ✅ |
+| 23 | SMS Spam Collection (UCI - archive.ics.uci.edu) | Bidirectional LSTM for text classification | [Link](https://github.com/SinaShakoori/SMS-Spam-Collection) | ✅ |
+| 24 | IMDB Dataset of 50K Movie Reviews (Kaggle - lakshmi25npathi) | Embedding for Sentiment & Text Analysis | [Link](https://github.com/SinaShakoori/IMDB-Movie-Reviews-SentimentAnalysis) | ✅ |
 | 25 | Twitter Sentiment Analysis (Kaggle - kazanova) | Embedding for Sentiment & Text Analysis | [Link](https://github.com/SinaShakoori/Twitter-Sentiment-Analysis) | ⏳ |
 | 26 | Twitter Sentiment Analysis (Kaggle - kazanova) | Fine-tuning on TensorFlow with Multi-Channel (Concat) | [Link](https://github.com/SinaShakoori/MultiChannel-TwitterSentimentAnalysis) | ⏳ |
 | 27 | DailyDialog: Multi-Turn Dialog+Intention+Emotion | Seq2Seq | [Link](https://github.com/SinaShakoori/DailyDialog-Multi-Turn-Dialog) | ⏳ |
