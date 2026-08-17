@@ -1,7 +1,6 @@
-# AI Learning Projects 🚀
+# AI Learning Projects
 
-This repository contains a list of **Artificial Intelligence learning projects** designed for **practice, resume building, and teaching purposes**.  
-Some projects are completed (✅), while others are still in progress (⏳).  
+This repository contains a list of **Artificial Intelligence learning projects** designed for **practice, resume building, and teaching purposes**.
 
 ---
 
